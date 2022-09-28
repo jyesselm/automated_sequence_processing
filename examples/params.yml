@@ -1,5 +1,9 @@
-download_dir : /Users/jyesselm/BaseSpace 
-analysis_dir : /Users/jyesselm/sequence_analysis 
-analysis_summary_dir : /Users/jyesselm/Dropbox/data/sequencing_analysis 
-seq_path : /Users/jyesselm/gdrive/sequences_and_oligos
-backup_fastq_gzs : False
+demultiplex_dir: /Users/jyesselm/BaseSpace
+analysis_dir: /Users/jyesselm/sequence_analysis
+summary_dir: /Users/jyesselm/Dropbox/data/sequencing_analysis
+backup_analysis_dir: /Users/jyesselm/projects/automated_sequence_processing/backup/analysis
+backup_demultiplex_dir: /Users/jyesselm/projects/automated_sequence_processing/backup/demultiplex
+backup_summary_dir: /Users/jyesselm/projects/automated_sequence_processing/backup/summary
+seq_path: /Users/jyesselm/gdrive/sequences_and_oligos
+backup_fastq_gzs: False
+no_summary: True
